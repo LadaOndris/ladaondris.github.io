@@ -20,7 +20,7 @@
 
 ## Recommended books
 
-I usually read books with an educational value. Each book that has stuck with me somehow is listed below:
+I usually read books with educational value. Those that has stuck with me somehow are listed below.
 
 ### Programming 
 
