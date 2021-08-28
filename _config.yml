@@ -1,6 +1,6 @@
 title: Ladislav Ondris
 email: ladislav.ondris.1@gmail.com
-baseurl: https://ladaondris.github.io/
+baseurl: "https://ladaondris.github.io/"
 theme: jekyll-theme-tactile
 
 github_username: LadaOndris
