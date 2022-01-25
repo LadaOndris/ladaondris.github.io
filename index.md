@@ -13,14 +13,14 @@
 
 ## Other presence on the internet
 [Quora](https://www.quora.com/profile/La%C4%8Fa-Ondris)  
+[Medium](https://medium.com/@ladislav.ondris.1)  
 [Reddit](https://www.reddit.com/user/LadaOndris)  
 [Facebook](https://www.facebook.com/Ondris.Ladislav/)  
-[Medium](https://medium.com/@ladislav.ondris.1)  
 [YouTube](https://www.youtube.com/channel/UC6sES2uF7GoTXVe7p3Jz5cw)  
 
 ## Recommended books
 
-I usually read books with educational value. Those that has stuck with me somehow are listed below.
+I usually read books with educational value. I list the best of them below.
 
 ### Programming 
 
@@ -32,7 +32,7 @@ I usually read books with educational value. Those that has stuck with me someho
 [Microsoft .NET - Architecting Applications for the Enterprise](https://www.amazon.com/gp/product/0735685355)  
 
 ### General
-
+[Lifespan](https://www.amazon.com/Lifespan-Why-Age_and-Dont-Have/dp/1501191977)
 [Failing Forward](https://www.bookdepository.com/Failing-Forward-John-C-Maxwell/9780785288572)  
 [The Selfish Gene](https://www.bookdepository.com/Selfish-Gene-Richard-Dawkins/9780198788607)  
 [The Grand Design](https://www.bookdepository.com/Grand-Design-Leonard-Mlodinow/9780553819229)  
